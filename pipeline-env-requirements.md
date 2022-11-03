@@ -1,10 +1,9 @@
-# practice-eagles-batch-devops-projects
 # Jenkins CI/CD Pipeline Project Architecture (Java Web Application)
 ![CompleteCICDProject!](https://lucid.app/publicSegments/view/a6ef3233-7dda-483a-a662-d8ec90395ba3/image.png)
 
 # Jenkins Complete CI/CD Pipeline Environment Setup 
 
-1) Create a GitHub Repository `Jenkins-CI/CD-Pipeline-Project` and push the code in this branch(main) to 
+1) Create a GitHub Repository name `Jenkins-CICD-Pipeline-Project` and push the code in this branch(main) to 
     your remote repository (your newly created repository).
     - Go to GitHub (github.com)
     - Login to your GitHub Account
